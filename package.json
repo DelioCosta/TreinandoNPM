@@ -1,0 +1,15 @@
+{
+    "name": "hello-wold",
+    "version": "1.0.0",
+    "description": "Projeto Hello World em nodeJS utilizando NPM",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "keywords": [
+      "nodejs",
+      "http"
+    ],
+    "author": "Francis <franciscpd@gmail.com>",
+    "license": "ISC"
+}
