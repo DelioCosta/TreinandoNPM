@@ -4,12 +4,15 @@
     "description": "Projeto Hello World em nodeJS utilizando NPM",
     "main": "index.js",
     "scripts": {
-      "start": "node index.js"
+        "start": "node index.js"
     },
     "keywords": [
-      "nodejs",
-      "http"
+        "nodejs",
+        "http"
     ],
     "author": "Délio <deliocqcosta@gmail.com>",
-    "license": "ISC"
+    "license": "ISC",
+    "dependencies": {
+        "query-string": "^7.1.1"
+    }
 }
